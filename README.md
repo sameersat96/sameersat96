@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.dribbble.com/users/506824/screenshots/2188701/data-science-v2.gif)]
+[![MasterHead](https://res.cloudinary.com/teepublic/image/private/s--jBZ0jMyR--/t_Preview/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v1598607408/production/designs/13481763_0.jpg)]
+
 <h1 align="center">Hi 👋, I'm Sameer Satpute</h1>
 <h3 align="center">A passionate Entry level Data Scientist</h3>
 
