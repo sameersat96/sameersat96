@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/506824/screenshots/2188701/data-science-v2.gif)]
 
 <h1 align="center">Hi 👋, I'm Sameer Satpute</h1>
 <h3 align="center">A passionate Entry level Data Scientist</h3>
