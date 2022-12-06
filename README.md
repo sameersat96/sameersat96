@@ -13,11 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 💬 Ask me about **ML, Statistics, Deep Learning**
+- 💬 Ask me about **ML, Statistics, Stock Trading**
 
 - 📫 How to reach me **sameersatpute7@gmail.com**
 
 - ⚡ Fun fact **I Think i am curious**
+
+- 📖 Catch my @ Resume **https://drive.google.com/file/d/197mbvOmoLzZN1JY24MQBHzIEVErqS7Ox/view?usp=share_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
