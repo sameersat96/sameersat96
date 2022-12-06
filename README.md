@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I Think i am curious**
 
-- 📖 Catch my @ Resume **https://cutt.ly/N12QLmQ**
+- 📖 Catch my  Resume @ **https://cutt.ly/N12QLmQ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
