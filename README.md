@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I Think i am curious**
 
-- 📖 Catch my @ Resume **https://drive.google.com/file/d/197mbvOmoLzZN1JY24MQBHzIEVErqS7Ox/view?usp=share_link**
+- 📖 Catch my @ Resume **shorturl.at/afMU8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
